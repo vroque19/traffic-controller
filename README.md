@@ -6,7 +6,7 @@ This project implements a traffic controller using a TIVA-C Launchpad, LEDs, a s
 ## Project Components
 - **Microcontroller**: TIVA-C Launchpad (TM4C123G)
 - **LEDs**: Represent traffic lights and pedestrian signals
-- - **Switches**: Represents cars/ pedestrians at the intersection and is the input used to determine the next state of the system
+- **Switches**: Represents cars/ pedestrians at the intersection and is the input used to determine the next state of the system
 - **8-Bit Shift Register**: Used to extend GPIO pins and control multiple LEDs
 - **Breadboard**: For wiring the circuit
 - **Finite State Machine (FSM)**: Implements the logic to transition between different traffic light states
