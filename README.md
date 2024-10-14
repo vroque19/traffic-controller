@@ -41,3 +41,12 @@ The program follows a defined FSM, with each state representing a different traf
 2. Clone this repository to your local machine.
 3. Load the code onto the TIVA-C Launchpad using Code Composer Studio.
 4. Run the program and observe the traffic light sequence controlled by the FSM.
+
+## Resources
+
+1. [SN74HC595 Shift Register Datasheet](https://www.ti.com/lit/ds/symlink/sn74hc595.pdf)
+2. [Shift Register Theory](https://rheingoldheavy.com/shift-register-theory/)
+3. [Shift Registers Tutorial by GreatScott (YouTube)](https://youtu.be/6fVbJbNPrEU?si=BPLyMBKmyskpaW18)
+4. [Understanding Shift Registers (YouTube)](https://www.youtube.com/watch?v=kgABPjf9qLI)
+5. [Blinking LED in Tiva C Board (Instructables)](https://www.instructables.com/Blinking-LED-in-Tiva-C-Board-TM4C123G/)
+6. [4D Traffic Light FSM (Youtube)](https://youtu.be/kgABPjf9qLI?si=aExNJqR0bQXZ1kfy)
